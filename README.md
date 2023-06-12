@@ -1,6 +1,6 @@
 ## Финальный проект 
 
-### ITMO Battaleship Bot 
+### ITMO Battleship Bot
 
 > *Команда:*
 > * Селезнёв Павел
